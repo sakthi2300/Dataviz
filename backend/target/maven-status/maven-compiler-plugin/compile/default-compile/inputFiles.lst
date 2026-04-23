@@ -1,0 +1,14 @@
+C:\Data_projection\backend\src\main\java\com\dashboard\analytics\AnalyticsApplication.java
+C:\Data_projection\backend\src\main\java\com\dashboard\analytics\config\CorsConfig.java
+C:\Data_projection\backend\src\main\java\com\dashboard\analytics\controller\DashboardStateController.java
+C:\Data_projection\backend\src\main\java\com\dashboard\analytics\controller\SalesController.java
+C:\Data_projection\backend\src\main\java\com\dashboard\analytics\dto\KpiSummaryDTO.java
+C:\Data_projection\backend\src\main\java\com\dashboard\analytics\dto\MonthlyTrendDTO.java
+C:\Data_projection\backend\src\main\java\com\dashboard\analytics\dto\SalesByCategoryDTO.java
+C:\Data_projection\backend\src\main\java\com\dashboard\analytics\dto\SalesByRegionDTO.java
+C:\Data_projection\backend\src\main\java\com\dashboard\analytics\dto\TopProductDTO.java
+C:\Data_projection\backend\src\main\java\com\dashboard\analytics\model\DashboardState.java
+C:\Data_projection\backend\src\main\java\com\dashboard\analytics\model\SalesRecord.java
+C:\Data_projection\backend\src\main\java\com\dashboard\analytics\repository\DashboardStateRepository.java
+C:\Data_projection\backend\src\main\java\com\dashboard\analytics\repository\SalesRepository.java
+C:\Data_projection\backend\src\main\java\com\dashboard\analytics\service\SalesService.java

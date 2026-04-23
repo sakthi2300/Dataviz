@@ -1,0 +1,501 @@
+order_id,product_name,category,region,quantity,unit_price,total_price,order_date
+ORD-0001,Wireless Mouse,Electronics,North America,3,29.99,89.97,2024-01-05
+ORD-0002,USB-C Hub,Electronics,Europe,1,49.99,49.99,2024-01-08
+ORD-0003,Organic Coffee Beans,Food & Beverage,Asia Pacific,5,14.99,74.95,2024-01-10
+ORD-0004,Running Shoes,Apparel,North America,2,89.99,179.98,2024-01-12
+ORD-0005,Bluetooth Speaker,Electronics,South America,1,79.99,79.99,2024-01-15
+ORD-0006,Yoga Mat,Sports,Europe,4,24.99,99.96,2024-01-18
+ORD-0007,Laptop Stand,Electronics,Asia Pacific,2,39.99,79.98,2024-01-20
+ORD-0008,Green Tea Set,Food & Beverage,Asia Pacific,3,19.99,59.97,2024-01-22
+ORD-0009,Wireless Keyboard,Electronics,North America,1,59.99,59.99,2024-01-25
+ORD-0010,Cotton T-Shirt,Apparel,Europe,6,19.99,119.94,2024-01-28
+ORD-0011,Protein Powder,Food & Beverage,North America,2,34.99,69.98,2024-02-01
+ORD-0012,Noise-Canceling Headphones,Electronics,North America,1,199.99,199.99,2024-02-03
+ORD-0013,Desk Lamp,Home & Office,Europe,3,29.99,89.97,2024-02-05
+ORD-0014,Basketball,Sports,South America,2,34.99,69.98,2024-02-08
+ORD-0015,Smartwatch,Electronics,Asia Pacific,1,249.99,249.99,2024-02-10
+ORD-0016,Winter Jacket,Apparel,North America,1,129.99,129.99,2024-02-12
+ORD-0017,Olive Oil Premium,Food & Beverage,Europe,4,12.99,51.96,2024-02-15
+ORD-0018,Wireless Earbuds,Electronics,South America,2,69.99,139.98,2024-02-18
+ORD-0019,Office Chair,Home & Office,North America,1,299.99,299.99,2024-02-20
+ORD-0020,Tennis Racket,Sports,Europe,1,89.99,89.99,2024-02-22
+ORD-0021,Mechanical Keyboard,Electronics,Asia Pacific,1,149.99,149.99,2024-02-25
+ORD-0022,Dark Chocolate Box,Food & Beverage,Europe,8,9.99,79.92,2024-02-28
+ORD-0023,Running Shoes,Apparel,South America,2,89.99,179.98,2024-03-01
+ORD-0024,Webcam HD,Electronics,North America,1,79.99,79.99,2024-03-03
+ORD-0025,Yoga Mat,Sports,Asia Pacific,3,24.99,74.97,2024-03-05
+ORD-0026,Portable Charger,Electronics,North America,4,24.99,99.96,2024-03-08
+ORD-0027,Denim Jeans,Apparel,Europe,2,49.99,99.98,2024-03-10
+ORD-0028,Coffee Maker,Home & Office,North America,1,89.99,89.99,2024-03-12
+ORD-0029,Organic Honey,Food & Beverage,Asia Pacific,3,15.99,47.97,2024-03-15
+ORD-0030,Bluetooth Speaker,Electronics,Europe,2,79.99,159.98,2024-03-18
+ORD-0031,Swim Goggles,Sports,South America,5,14.99,74.95,2024-03-20
+ORD-0032,Monitor 27 inch,Electronics,North America,1,349.99,349.99,2024-03-22
+ORD-0033,Wool Sweater,Apparel,Europe,2,69.99,139.98,2024-03-25
+ORD-0034,Standing Desk,Home & Office,North America,1,449.99,449.99,2024-03-28
+ORD-0035,Matcha Powder,Food & Beverage,Asia Pacific,6,22.99,137.94,2024-03-30
+ORD-0036,Wireless Mouse,Electronics,South America,3,29.99,89.97,2024-04-02
+ORD-0037,Dumbbells Set,Sports,North America,1,59.99,59.99,2024-04-05
+ORD-0038,USB-C Hub,Electronics,Asia Pacific,2,49.99,99.98,2024-04-08
+ORD-0039,Leather Belt,Apparel,Europe,3,29.99,89.97,2024-04-10
+ORD-0040,Desk Organizer,Home & Office,North America,2,19.99,39.98,2024-04-12
+ORD-0041,Almond Butter,Food & Beverage,North America,4,11.99,47.96,2024-04-15
+ORD-0042,Noise-Canceling Headphones,Electronics,Europe,1,199.99,199.99,2024-04-18
+ORD-0043,Resistance Bands,Sports,South America,3,16.99,50.97,2024-04-20
+ORD-0044,Smartwatch,Electronics,North America,1,249.99,249.99,2024-04-22
+ORD-0045,Linen Shirt,Apparel,Asia Pacific,2,44.99,89.98,2024-04-25
+ORD-0046,Bookshelf,Home & Office,Europe,1,129.99,129.99,2024-04-28
+ORD-0047,Sparkling Water Pack,Food & Beverage,North America,12,1.99,23.88,2024-04-30
+ORD-0048,Laptop Stand,Electronics,South America,1,39.99,39.99,2024-05-02
+ORD-0049,Soccer Ball,Sports,Europe,4,29.99,119.96,2024-05-05
+ORD-0050,Mechanical Keyboard,Electronics,North America,1,149.99,149.99,2024-05-08
+ORD-0051,Cargo Pants,Apparel,Asia Pacific,3,39.99,119.97,2024-05-10
+ORD-0052,Wireless Earbuds,Electronics,North America,2,69.99,139.98,2024-05-12
+ORD-0053,Espresso Machine,Home & Office,Europe,1,199.99,199.99,2024-05-15
+ORD-0054,Organic Coffee Beans,Food & Beverage,South America,5,14.99,74.95,2024-05-18
+ORD-0055,Fitness Tracker,Electronics,Asia Pacific,1,99.99,99.99,2024-05-20
+ORD-0056,Jump Rope,Sports,North America,6,9.99,59.94,2024-05-22
+ORD-0057,Webcam HD,Electronics,Europe,2,79.99,159.98,2024-05-25
+ORD-0058,Silk Scarf,Apparel,Asia Pacific,2,34.99,69.98,2024-05-28
+ORD-0059,Portable Charger,Electronics,South America,3,24.99,74.97,2024-05-30
+ORD-0060,Air Purifier,Home & Office,North America,1,179.99,179.99,2024-06-02
+ORD-0061,Protein Bars Pack,Food & Beverage,North America,8,2.49,19.92,2024-06-05
+ORD-0062,Monitor 27 inch,Electronics,Europe,1,349.99,349.99,2024-06-08
+ORD-0063,Running Shorts,Apparel,South America,4,24.99,99.96,2024-06-10
+ORD-0064,Kettlebell,Sports,North America,2,44.99,89.98,2024-06-12
+ORD-0065,Green Tea Set,Food & Beverage,Asia Pacific,3,19.99,59.97,2024-06-15
+ORD-0066,Wireless Keyboard,Electronics,North America,1,59.99,59.99,2024-06-18
+ORD-0067,Cotton T-Shirt,Apparel,Europe,5,19.99,99.95,2024-06-20
+ORD-0068,Desk Lamp,Home & Office,Asia Pacific,2,29.99,59.98,2024-06-22
+ORD-0069,Dark Chocolate Box,Food & Beverage,South America,6,9.99,59.94,2024-06-25
+ORD-0070,Bluetooth Speaker,Electronics,North America,1,79.99,79.99,2024-06-28
+ORD-0071,Yoga Block Set,Sports,Europe,3,17.99,53.97,2024-06-30
+ORD-0072,USB-C Hub,Electronics,South America,2,49.99,99.98,2024-07-02
+ORD-0073,Winter Jacket,Apparel,North America,1,129.99,129.99,2024-07-05
+ORD-0074,Coffee Maker,Home & Office,Asia Pacific,1,89.99,89.99,2024-07-08
+ORD-0075,Olive Oil Premium,Food & Beverage,Europe,3,12.99,38.97,2024-07-10
+ORD-0076,Noise-Canceling Headphones,Electronics,North America,1,199.99,199.99,2024-07-12
+ORD-0077,Tennis Racket,Sports,South America,2,89.99,179.98,2024-07-15
+ORD-0078,Smartwatch,Electronics,Asia Pacific,1,249.99,249.99,2024-07-18
+ORD-0079,Denim Jeans,Apparel,Europe,3,49.99,149.97,2024-07-20
+ORD-0080,Standing Desk,Home & Office,North America,1,449.99,449.99,2024-07-22
+ORD-0081,Matcha Powder,Food & Beverage,North America,4,22.99,91.96,2024-07-25
+ORD-0082,Wireless Mouse,Electronics,Asia Pacific,5,29.99,149.95,2024-07-28
+ORD-0083,Basketball,Sports,Europe,3,34.99,104.97,2024-07-30
+ORD-0084,Leather Belt,Apparel,South America,2,29.99,59.98,2024-08-02
+ORD-0085,Bookshelf,Home & Office,North America,1,129.99,129.99,2024-08-05
+ORD-0086,Almond Butter,Food & Beverage,Asia Pacific,3,11.99,35.97,2024-08-08
+ORD-0087,Laptop Stand,Electronics,Europe,2,39.99,79.98,2024-08-10
+ORD-0088,Resistance Bands,Sports,North America,4,16.99,67.96,2024-08-12
+ORD-0089,Linen Shirt,Apparel,South America,2,44.99,89.98,2024-08-15
+ORD-0090,Desk Organizer,Home & Office,Europe,3,19.99,59.97,2024-08-18
+ORD-0091,Sparkling Water Pack,Food & Beverage,South America,10,1.99,19.90,2024-08-20
+ORD-0092,Fitness Tracker,Electronics,North America,1,99.99,99.99,2024-08-22
+ORD-0093,Swim Goggles,Sports,Asia Pacific,4,14.99,59.96,2024-08-25
+ORD-0094,Cargo Pants,Apparel,North America,2,39.99,79.98,2024-08-28
+ORD-0095,Espresso Machine,Home & Office,South America,1,199.99,199.99,2024-08-30
+ORD-0096,Organic Honey,Food & Beverage,Europe,5,15.99,79.95,2024-09-02
+ORD-0097,Mechanical Keyboard,Electronics,North America,1,149.99,149.99,2024-09-05
+ORD-0098,Soccer Ball,Sports,South America,6,29.99,179.94,2024-09-08
+ORD-0099,Silk Scarf,Apparel,Asia Pacific,2,34.99,69.98,2024-09-10
+ORD-0100,Air Purifier,Home & Office,North America,1,179.99,179.99,2024-09-12
+ORD-0101,Protein Powder,Food & Beverage,Europe,2,34.99,69.98,2024-09-15
+ORD-0102,Webcam HD,Electronics,Asia Pacific,1,79.99,79.99,2024-09-18
+ORD-0103,Dumbbells Set,Sports,North America,2,59.99,119.98,2024-09-20
+ORD-0104,Running Shoes,Apparel,Europe,1,89.99,89.99,2024-09-22
+ORD-0105,Portable Charger,Electronics,North America,5,24.99,124.95,2024-09-25
+ORD-0106,Wireless Earbuds,Electronics,South America,1,69.99,69.99,2024-09-28
+ORD-0107,Kettlebell,Sports,Europe,1,44.99,44.99,2024-09-30
+ORD-0108,Cotton T-Shirt,Apparel,South America,8,19.99,159.92,2024-10-02
+ORD-0109,Monitor 27 inch,Electronics,North America,1,349.99,349.99,2024-10-05
+ORD-0110,Organic Coffee Beans,Food & Beverage,Asia Pacific,4,14.99,59.96,2024-10-08
+ORD-0111,Jump Rope,Sports,South America,5,9.99,49.95,2024-10-10
+ORD-0112,Wool Sweater,Apparel,North America,2,69.99,139.98,2024-10-12
+ORD-0113,Desk Lamp,Home & Office,South America,2,29.99,59.98,2024-10-15
+ORD-0114,Green Tea Set,Food & Beverage,Europe,3,19.99,59.97,2024-10-18
+ORD-0115,USB-C Hub,Electronics,North America,3,49.99,149.97,2024-10-20
+ORD-0116,Yoga Mat,Sports,South America,2,24.99,49.98,2024-10-22
+ORD-0117,Winter Jacket,Apparel,Asia Pacific,1,129.99,129.99,2024-10-25
+ORD-0118,Coffee Maker,Home & Office,Europe,1,89.99,89.99,2024-10-28
+ORD-0119,Protein Bars Pack,Food & Beverage,North America,12,2.49,29.88,2024-10-30
+ORD-0120,Bluetooth Speaker,Electronics,Asia Pacific,2,79.99,159.98,2024-11-02
+ORD-0121,Yoga Block Set,Sports,North America,4,17.99,71.96,2024-11-05
+ORD-0122,Running Shorts,Apparel,Europe,3,24.99,74.97,2024-11-08
+ORD-0123,Standing Desk,Home & Office,Asia Pacific,1,449.99,449.99,2024-11-10
+ORD-0124,Dark Chocolate Box,Food & Beverage,North America,10,9.99,99.90,2024-11-12
+ORD-0125,Noise-Canceling Headphones,Electronics,South America,1,199.99,199.99,2024-11-15
+ORD-0126,Tennis Racket,Sports,Asia Pacific,1,89.99,89.99,2024-11-18
+ORD-0127,Denim Jeans,Apparel,North America,2,49.99,99.98,2024-11-20
+ORD-0128,Olive Oil Premium,Food & Beverage,South America,4,12.99,51.96,2024-11-22
+ORD-0129,Smartwatch,Electronics,Europe,1,249.99,249.99,2024-11-25
+ORD-0130,Desk Organizer,Home & Office,South America,3,19.99,59.97,2024-11-28
+ORD-0131,Matcha Powder,Food & Beverage,Asia Pacific,5,22.99,114.95,2024-11-30
+ORD-0132,Wireless Keyboard,Electronics,Europe,2,59.99,119.98,2024-12-02
+ORD-0133,Basketball,Sports,North America,3,34.99,104.97,2024-12-05
+ORD-0134,Leather Belt,Apparel,Asia Pacific,4,29.99,119.96,2024-12-08
+ORD-0135,Bookshelf,Home & Office,Europe,1,129.99,129.99,2024-12-10
+ORD-0136,Almond Butter,Food & Beverage,South America,3,11.99,35.97,2024-12-12
+ORD-0137,Wireless Mouse,Electronics,Europe,4,29.99,119.96,2024-12-15
+ORD-0138,Resistance Bands,Sports,Asia Pacific,6,16.99,101.94,2024-12-18
+ORD-0139,Linen Shirt,Apparel,North America,2,44.99,89.98,2024-12-20
+ORD-0140,Espresso Machine,Home & Office,Asia Pacific,1,199.99,199.99,2024-12-22
+ORD-0141,Organic Honey,Food & Beverage,North America,4,15.99,63.96,2024-12-25
+ORD-0142,Laptop Stand,Electronics,North America,3,39.99,119.97,2024-12-28
+ORD-0143,Soccer Ball,Sports,Asia Pacific,2,29.99,59.98,2024-12-30
+ORD-0144,Silk Scarf,Apparel,Europe,3,34.99,104.97,2024-01-03
+ORD-0145,Air Purifier,Home & Office,South America,1,179.99,179.99,2024-01-07
+ORD-0146,Wireless Earbuds,Electronics,Asia Pacific,2,69.99,139.98,2024-01-14
+ORD-0147,Cargo Pants,Apparel,South America,2,39.99,79.98,2024-01-21
+ORD-0148,Swim Goggles,Sports,North America,3,14.99,44.97,2024-01-27
+ORD-0149,Sparkling Water Pack,Food & Beverage,Europe,8,1.99,15.92,2024-02-02
+ORD-0150,Fitness Tracker,Electronics,South America,1,99.99,99.99,2024-02-07
+ORD-0151,Dumbbells Set,Sports,Europe,1,59.99,59.99,2024-02-14
+ORD-0152,Webcam HD,Electronics,South America,1,79.99,79.99,2024-02-21
+ORD-0153,Portable Charger,Electronics,Europe,2,24.99,49.98,2024-02-27
+ORD-0154,Kettlebell,Sports,Asia Pacific,2,44.99,89.98,2024-03-04
+ORD-0155,Monitor 27 inch,Electronics,South America,1,349.99,349.99,2024-03-11
+ORD-0156,Cotton T-Shirt,Apparel,North America,4,19.99,79.96,2024-03-17
+ORD-0157,Jump Rope,Sports,Europe,8,9.99,79.92,2024-03-24
+ORD-0158,Mechanical Keyboard,Electronics,South America,1,149.99,149.99,2024-03-29
+ORD-0159,Wool Sweater,Apparel,Asia Pacific,1,69.99,69.99,2024-04-04
+ORD-0160,Organic Coffee Beans,Food & Beverage,North America,6,14.99,89.94,2024-04-09
+ORD-0161,Running Shoes,Apparel,Asia Pacific,1,89.99,89.99,2024-04-14
+ORD-0162,Desk Lamp,Home & Office,North America,2,29.99,59.98,2024-04-19
+ORD-0163,Green Tea Set,Food & Beverage,South America,4,19.99,79.96,2024-04-24
+ORD-0164,USB-C Hub,Electronics,North America,1,49.99,49.99,2024-04-29
+ORD-0165,Yoga Mat,Sports,North America,5,24.99,124.95,2024-05-04
+ORD-0166,Winter Jacket,Apparel,South America,1,129.99,129.99,2024-05-09
+ORD-0167,Coffee Maker,Home & Office,South America,1,89.99,89.99,2024-05-14
+ORD-0168,Protein Powder,Food & Beverage,Asia Pacific,3,34.99,104.97,2024-05-19
+ORD-0169,Noise-Canceling Headphones,Electronics,Asia Pacific,1,199.99,199.99,2024-05-24
+ORD-0170,Tennis Racket,Sports,North America,1,89.99,89.99,2024-05-29
+ORD-0171,Smartwatch,Electronics,South America,1,249.99,249.99,2024-06-03
+ORD-0172,Denim Jeans,Apparel,Asia Pacific,2,49.99,99.98,2024-06-08
+ORD-0173,Olive Oil Premium,Food & Beverage,North America,5,12.99,64.95,2024-06-13
+ORD-0174,Standing Desk,Home & Office,Europe,1,449.99,449.99,2024-06-18
+ORD-0175,Matcha Powder,Food & Beverage,South America,3,22.99,68.97,2024-06-23
+ORD-0176,Wireless Mouse,Electronics,North America,2,29.99,59.98,2024-06-28
+ORD-0177,Basketball,Sports,Asia Pacific,4,34.99,139.96,2024-07-03
+ORD-0178,Leather Belt,Apparel,North America,3,29.99,89.97,2024-07-08
+ORD-0179,Bookshelf,Home & Office,South America,1,129.99,129.99,2024-07-13
+ORD-0180,Almond Butter,Food & Beverage,Europe,4,11.99,47.96,2024-07-18
+ORD-0181,Bluetooth Speaker,Electronics,South America,3,79.99,239.97,2024-07-23
+ORD-0182,Yoga Block Set,Sports,Asia Pacific,2,17.99,35.98,2024-07-28
+ORD-0183,Running Shorts,Apparel,North America,3,24.99,74.97,2024-08-02
+ORD-0184,Dark Chocolate Box,Food & Beverage,Asia Pacific,7,9.99,69.93,2024-08-07
+ORD-0185,Wireless Keyboard,Electronics,South America,1,59.99,59.99,2024-08-12
+ORD-0186,Resistance Bands,Sports,Europe,5,16.99,84.95,2024-08-17
+ORD-0187,Linen Shirt,Apparel,Europe,2,44.99,89.98,2024-08-22
+ORD-0188,Desk Organizer,Home & Office,Asia Pacific,4,19.99,79.96,2024-08-27
+ORD-0189,Protein Bars Pack,Food & Beverage,South America,6,2.49,14.94,2024-09-01
+ORD-0190,Wireless Earbuds,Electronics,Europe,2,69.99,139.98,2024-09-06
+ORD-0191,Swim Goggles,Sports,North America,3,14.99,44.97,2024-09-11
+ORD-0192,Cargo Pants,Apparel,Europe,2,39.99,79.98,2024-09-16
+ORD-0193,Espresso Machine,Home & Office,North America,1,199.99,199.99,2024-09-21
+ORD-0194,Organic Honey,Food & Beverage,South America,3,15.99,47.97,2024-09-26
+ORD-0195,Fitness Tracker,Electronics,Europe,1,99.99,99.99,2024-10-01
+ORD-0196,Soccer Ball,Sports,North America,3,29.99,89.97,2024-10-06
+ORD-0197,Silk Scarf,Apparel,North America,2,34.99,69.98,2024-10-11
+ORD-0198,Air Purifier,Home & Office,Asia Pacific,1,179.99,179.99,2024-10-16
+ORD-0199,Laptop Stand,Electronics,South America,2,39.99,79.98,2024-10-21
+ORD-0200,Dumbbells Set,Sports,Asia Pacific,1,59.99,59.99,2024-10-26
+ORD-0201,Webcam HD,Electronics,North America,1,79.99,79.99,2024-10-31
+ORD-0202,Portable Charger,Electronics,Asia Pacific,4,24.99,99.96,2024-11-05
+ORD-0203,Kettlebell,Sports,South America,1,44.99,44.99,2024-11-10
+ORD-0204,Monitor 27 inch,Electronics,Asia Pacific,1,349.99,349.99,2024-11-15
+ORD-0205,Cotton T-Shirt,Apparel,Asia Pacific,6,19.99,119.94,2024-11-20
+ORD-0206,Jump Rope,Sports,North America,4,9.99,39.96,2024-11-25
+ORD-0207,Mechanical Keyboard,Electronics,Europe,1,149.99,149.99,2024-11-30
+ORD-0208,Wool Sweater,Apparel,South America,2,69.99,139.98,2024-12-05
+ORD-0209,Organic Coffee Beans,Food & Beverage,Europe,3,14.99,44.97,2024-12-10
+ORD-0210,Coffee Maker,Home & Office,North America,1,89.99,89.99,2024-12-15
+ORD-0211,Wireless Mouse,Electronics,Asia Pacific,2,29.99,59.98,2024-12-20
+ORD-0212,Running Shoes,Apparel,North America,1,89.99,89.99,2024-12-25
+ORD-0213,Yoga Mat,Sports,Europe,2,24.99,49.98,2024-12-28
+ORD-0214,USB-C Hub,Electronics,South America,1,49.99,49.99,2024-01-06
+ORD-0215,Protein Powder,Food & Beverage,North America,2,34.99,69.98,2024-01-13
+ORD-0216,Noise-Canceling Headphones,Electronics,Europe,1,199.99,199.99,2024-01-20
+ORD-0217,Desk Lamp,Home & Office,Asia Pacific,3,29.99,89.97,2024-01-26
+ORD-0218,Tennis Racket,Sports,North America,2,89.99,179.98,2024-02-04
+ORD-0219,Smartwatch,Electronics,South America,1,249.99,249.99,2024-02-11
+ORD-0220,Denim Jeans,Apparel,North America,1,49.99,49.99,2024-02-19
+ORD-0221,Olive Oil Premium,Food & Beverage,Asia Pacific,6,12.99,77.94,2024-02-26
+ORD-0222,Wireless Earbuds,Electronics,North America,3,69.99,209.97,2024-03-06
+ORD-0223,Standing Desk,Home & Office,South America,1,449.99,449.99,2024-03-13
+ORD-0224,Matcha Powder,Food & Beverage,Europe,4,22.99,91.96,2024-03-19
+ORD-0225,Bluetooth Speaker,Electronics,North America,2,79.99,159.98,2024-03-26
+ORD-0226,Basketball,Sports,South America,2,34.99,69.98,2024-04-01
+ORD-0227,Leather Belt,Apparel,Europe,2,29.99,59.98,2024-04-07
+ORD-0228,Bookshelf,Home & Office,Asia Pacific,1,129.99,129.99,2024-04-13
+ORD-0229,Almond Butter,Food & Beverage,North America,5,11.99,59.95,2024-04-18
+ORD-0230,Wireless Keyboard,Electronics,Asia Pacific,2,59.99,119.98,2024-04-23
+ORD-0231,Yoga Block Set,Sports,North America,3,17.99,53.97,2024-04-28
+ORD-0232,Running Shorts,Apparel,South America,4,24.99,99.96,2024-05-03
+ORD-0233,Dark Chocolate Box,Food & Beverage,Europe,5,9.99,49.95,2024-05-07
+ORD-0234,Resistance Bands,Sports,South America,2,16.99,33.98,2024-05-11
+ORD-0235,Linen Shirt,Apparel,Asia Pacific,3,44.99,134.97,2024-05-16
+ORD-0236,Desk Organizer,Home & Office,North America,2,19.99,39.98,2024-05-21
+ORD-0237,Sparkling Water Pack,Food & Beverage,Asia Pacific,15,1.99,29.85,2024-05-26
+ORD-0238,Fitness Tracker,Electronics,North America,2,99.99,199.98,2024-05-31
+ORD-0239,Swim Goggles,Sports,Europe,4,14.99,59.96,2024-06-04
+ORD-0240,Cargo Pants,Apparel,North America,1,39.99,39.99,2024-06-09
+ORD-0241,Espresso Machine,Home & Office,Europe,1,199.99,199.99,2024-06-14
+ORD-0242,Organic Honey,Food & Beverage,Asia Pacific,2,15.99,31.98,2024-06-19
+ORD-0243,Laptop Stand,Electronics,North America,1,39.99,39.99,2024-06-24
+ORD-0244,Soccer Ball,Sports,South America,3,29.99,89.97,2024-06-29
+ORD-0245,Silk Scarf,Apparel,South America,1,34.99,34.99,2024-07-04
+ORD-0246,Air Purifier,Home & Office,Europe,1,179.99,179.99,2024-07-09
+ORD-0247,Webcam HD,Electronics,South America,2,79.99,159.98,2024-07-14
+ORD-0248,Dumbbells Set,Sports,North America,1,59.99,59.99,2024-07-19
+ORD-0249,Portable Charger,Electronics,South America,2,24.99,49.98,2024-07-24
+ORD-0250,Kettlebell,Sports,Europe,2,44.99,89.98,2024-07-29
+ORD-0251,USB-C Hub,Electronics,Europe,3,49.99,149.97,2024-08-03
+ORD-0252,Running Shoes,Apparel,Asia Pacific,2,89.99,179.98,2024-08-08
+ORD-0253,Coffee Maker,Home & Office,Europe,1,89.99,89.99,2024-08-13
+ORD-0254,Protein Powder,Food & Beverage,South America,2,34.99,69.98,2024-08-18
+ORD-0255,Wireless Mouse,Electronics,North America,3,29.99,89.97,2024-08-23
+ORD-0256,Yoga Mat,Sports,Asia Pacific,3,24.99,74.97,2024-08-28
+ORD-0257,Winter Jacket,Apparel,Europe,2,129.99,259.98,2024-09-02
+ORD-0258,Noise-Canceling Headphones,Electronics,South America,1,199.99,199.99,2024-09-07
+ORD-0259,Olive Oil Premium,Food & Beverage,North America,3,12.99,38.97,2024-09-12
+ORD-0260,Mechanical Keyboard,Electronics,Asia Pacific,2,149.99,299.98,2024-09-17
+ORD-0261,Desk Lamp,Home & Office,Europe,2,29.99,59.98,2024-09-22
+ORD-0262,Matcha Powder,Food & Beverage,North America,3,22.99,68.97,2024-09-27
+ORD-0263,Smartwatch,Electronics,North America,2,249.99,499.98,2024-10-02
+ORD-0264,Tennis Racket,Sports,Europe,1,89.99,89.99,2024-10-07
+ORD-0265,Cotton T-Shirt,Apparel,South America,5,19.99,99.95,2024-10-12
+ORD-0266,Bluetooth Speaker,Electronics,Europe,1,79.99,79.99,2024-10-17
+ORD-0267,Wool Sweater,Apparel,North America,1,69.99,69.99,2024-10-22
+ORD-0268,Green Tea Set,Food & Beverage,North America,2,19.99,39.98,2024-10-27
+ORD-0269,Monitor 27 inch,Electronics,Europe,1,349.99,349.99,2024-11-01
+ORD-0270,Denim Jeans,Apparel,South America,2,49.99,99.98,2024-11-06
+ORD-0271,Organic Coffee Beans,Food & Beverage,South America,4,14.99,59.96,2024-11-11
+ORD-0272,Basketball,Sports,North America,2,34.99,69.98,2024-11-16
+ORD-0273,Wireless Earbuds,Electronics,Asia Pacific,3,69.99,209.97,2024-11-21
+ORD-0274,Leather Belt,Apparel,Europe,3,29.99,89.97,2024-11-26
+ORD-0275,Bookshelf,Home & Office,North America,1,129.99,129.99,2024-12-01
+ORD-0276,Almond Butter,Food & Beverage,Asia Pacific,2,11.99,23.98,2024-12-06
+ORD-0277,Wireless Keyboard,Electronics,North America,2,59.99,119.98,2024-12-11
+ORD-0278,Yoga Block Set,Sports,South America,3,17.99,53.97,2024-12-16
+ORD-0279,Running Shorts,Apparel,Asia Pacific,2,24.99,49.98,2024-12-21
+ORD-0280,Dark Chocolate Box,Food & Beverage,North America,6,9.99,59.94,2024-12-26
+ORD-0281,Resistance Bands,Sports,North America,3,16.99,50.97,2024-01-09
+ORD-0282,Linen Shirt,Apparel,Europe,1,44.99,44.99,2024-01-16
+ORD-0283,Desk Organizer,Home & Office,South America,2,19.99,39.98,2024-01-23
+ORD-0284,Sparkling Water Pack,Food & Beverage,North America,10,1.99,19.90,2024-01-30
+ORD-0285,Fitness Tracker,Electronics,Asia Pacific,1,99.99,99.99,2024-02-06
+ORD-0286,Swim Goggles,Sports,South America,4,14.99,59.96,2024-02-13
+ORD-0287,Cargo Pants,Apparel,North America,3,39.99,119.97,2024-02-20
+ORD-0288,Espresso Machine,Home & Office,Asia Pacific,1,199.99,199.99,2024-02-28
+ORD-0289,Organic Honey,Food & Beverage,Europe,3,15.99,47.97,2024-03-07
+ORD-0290,Laptop Stand,Electronics,South America,1,39.99,39.99,2024-03-14
+ORD-0291,Soccer Ball,Sports,Europe,2,29.99,59.98,2024-03-21
+ORD-0292,Silk Scarf,Apparel,North America,3,34.99,104.97,2024-03-28
+ORD-0293,Air Purifier,Home & Office,South America,1,179.99,179.99,2024-04-03
+ORD-0294,Webcam HD,Electronics,Asia Pacific,2,79.99,159.98,2024-04-08
+ORD-0295,Dumbbells Set,Sports,South America,2,59.99,119.98,2024-04-13
+ORD-0296,Portable Charger,Electronics,Europe,3,24.99,74.97,2024-04-17
+ORD-0297,Kettlebell,Sports,North America,1,44.99,44.99,2024-04-22
+ORD-0298,Monitor 27 inch,Electronics,South America,1,349.99,349.99,2024-04-27
+ORD-0299,Cotton T-Shirt,Apparel,Europe,4,19.99,79.96,2024-05-01
+ORD-0300,Jump Rope,Sports,Asia Pacific,6,9.99,59.94,2024-05-06
+ORD-0301,Mechanical Keyboard,Electronics,North America,2,149.99,299.98,2024-05-13
+ORD-0302,Wool Sweater,Apparel,South America,1,69.99,69.99,2024-05-19
+ORD-0303,Organic Coffee Beans,Food & Beverage,North America,3,14.99,44.97,2024-05-25
+ORD-0304,Running Shoes,Apparel,Europe,2,89.99,179.98,2024-06-01
+ORD-0305,Green Tea Set,Food & Beverage,North America,4,19.99,79.96,2024-06-07
+ORD-0306,USB-C Hub,Electronics,Asia Pacific,2,49.99,99.98,2024-06-12
+ORD-0307,Yoga Mat,Sports,South America,3,24.99,74.97,2024-06-17
+ORD-0308,Winter Jacket,Apparel,Asia Pacific,1,129.99,129.99,2024-06-22
+ORD-0309,Coffee Maker,Home & Office,South America,2,89.99,179.98,2024-06-27
+ORD-0310,Protein Powder,Food & Beverage,Europe,1,34.99,34.99,2024-07-02
+ORD-0311,Noise-Canceling Headphones,Electronics,North America,2,199.99,399.98,2024-07-07
+ORD-0312,Tennis Racket,Sports,Asia Pacific,2,89.99,179.98,2024-07-12
+ORD-0313,Smartwatch,Electronics,Europe,1,249.99,249.99,2024-07-17
+ORD-0314,Denim Jeans,Apparel,South America,3,49.99,149.97,2024-07-22
+ORD-0315,Olive Oil Premium,Food & Beverage,Asia Pacific,2,12.99,25.98,2024-07-27
+ORD-0316,Standing Desk,Home & Office,North America,1,449.99,449.99,2024-08-01
+ORD-0317,Matcha Powder,Food & Beverage,Europe,3,22.99,68.97,2024-08-06
+ORD-0318,Wireless Mouse,Electronics,South America,2,29.99,59.98,2024-08-11
+ORD-0319,Basketball,Sports,Europe,2,34.99,69.98,2024-08-16
+ORD-0320,Leather Belt,Apparel,North America,4,29.99,119.96,2024-08-21
+ORD-0321,Bookshelf,Home & Office,Asia Pacific,1,129.99,129.99,2024-08-26
+ORD-0322,Almond Butter,Food & Beverage,North America,3,11.99,35.97,2024-08-31
+ORD-0323,Bluetooth Speaker,Electronics,Asia Pacific,1,79.99,79.99,2024-09-05
+ORD-0324,Yoga Block Set,Sports,Europe,2,17.99,35.98,2024-09-10
+ORD-0325,Running Shorts,Apparel,North America,2,24.99,49.98,2024-09-15
+ORD-0326,Dark Chocolate Box,Food & Beverage,South America,4,9.99,39.96,2024-09-20
+ORD-0327,Wireless Keyboard,Electronics,South America,1,59.99,59.99,2024-09-25
+ORD-0328,Resistance Bands,Sports,North America,5,16.99,84.95,2024-09-30
+ORD-0329,Linen Shirt,Apparel,Asia Pacific,1,44.99,44.99,2024-10-04
+ORD-0330,Desk Organizer,Home & Office,Europe,3,19.99,59.97,2024-10-09
+ORD-0331,Sparkling Water Pack,Food & Beverage,South America,12,1.99,23.88,2024-10-14
+ORD-0332,Fitness Tracker,Electronics,Europe,2,99.99,199.98,2024-10-19
+ORD-0333,Swim Goggles,Sports,Asia Pacific,3,14.99,44.97,2024-10-24
+ORD-0334,Cargo Pants,Apparel,Europe,1,39.99,39.99,2024-10-29
+ORD-0335,Espresso Machine,Home & Office,North America,1,199.99,199.99,2024-11-03
+ORD-0336,Organic Honey,Food & Beverage,North America,5,15.99,79.95,2024-11-08
+ORD-0337,Laptop Stand,Electronics,Europe,1,39.99,39.99,2024-11-13
+ORD-0338,Soccer Ball,Sports,North America,4,29.99,119.96,2024-11-18
+ORD-0339,Silk Scarf,Apparel,Europe,2,34.99,69.98,2024-11-23
+ORD-0340,Air Purifier,Home & Office,North America,1,179.99,179.99,2024-11-28
+ORD-0341,Webcam HD,Electronics,North America,3,79.99,239.97,2024-12-03
+ORD-0342,Dumbbells Set,Sports,Europe,2,59.99,119.98,2024-12-08
+ORD-0343,Portable Charger,Electronics,North America,2,24.99,49.98,2024-12-13
+ORD-0344,Kettlebell,Sports,Asia Pacific,1,44.99,44.99,2024-12-18
+ORD-0345,Monitor 27 inch,Electronics,North America,1,349.99,349.99,2024-12-23
+ORD-0346,Cotton T-Shirt,Apparel,North America,3,19.99,59.97,2024-12-29
+ORD-0347,Jump Rope,Sports,South America,5,9.99,49.95,2024-01-04
+ORD-0348,Wireless Earbuds,Electronics,North America,1,69.99,69.99,2024-01-11
+ORD-0349,Wool Sweater,Apparel,Europe,2,69.99,139.98,2024-01-19
+ORD-0350,Organic Coffee Beans,Food & Beverage,Asia Pacific,2,14.99,29.98,2024-01-24
+ORD-0351,Running Shoes,Apparel,South America,3,89.99,269.97,2024-02-01
+ORD-0352,Desk Lamp,Home & Office,South America,1,29.99,29.99,2024-02-09
+ORD-0353,Green Tea Set,Food & Beverage,North America,5,19.99,99.95,2024-02-16
+ORD-0354,USB-C Hub,Electronics,North America,2,49.99,99.98,2024-02-23
+ORD-0355,Yoga Mat,Sports,Europe,4,24.99,99.96,2024-03-02
+ORD-0356,Winter Jacket,Apparel,Europe,1,129.99,129.99,2024-03-09
+ORD-0357,Protein Powder,Food & Beverage,South America,1,34.99,34.99,2024-03-16
+ORD-0358,Noise-Canceling Headphones,Electronics,Asia Pacific,2,199.99,399.98,2024-03-23
+ORD-0359,Smartwatch,Electronics,North America,1,249.99,249.99,2024-04-06
+ORD-0360,Tennis Racket,Sports,South America,1,89.99,89.99,2024-04-11
+ORD-0361,Denim Jeans,Apparel,Asia Pacific,2,49.99,99.98,2024-04-16
+ORD-0362,Standing Desk,Home & Office,Europe,1,449.99,449.99,2024-04-21
+ORD-0363,Olive Oil Premium,Food & Beverage,South America,3,12.99,38.97,2024-04-26
+ORD-0364,Matcha Powder,Food & Beverage,North America,2,22.99,45.98,2024-05-02
+ORD-0365,Wireless Mouse,Electronics,Europe,3,29.99,89.97,2024-05-08
+ORD-0366,Basketball,Sports,North America,1,34.99,34.99,2024-05-15
+ORD-0367,Leather Belt,Apparel,South America,2,29.99,59.98,2024-05-20
+ORD-0368,Bookshelf,Home & Office,South America,1,129.99,129.99,2024-05-28
+ORD-0369,Almond Butter,Food & Beverage,Europe,2,11.99,23.98,2024-06-02
+ORD-0370,Bluetooth Speaker,Electronics,North America,1,79.99,79.99,2024-06-06
+ORD-0371,Yoga Block Set,Sports,South America,4,17.99,71.96,2024-06-11
+ORD-0372,Running Shorts,Apparel,Europe,3,24.99,74.97,2024-06-16
+ORD-0373,Dark Chocolate Box,Food & Beverage,Asia Pacific,4,9.99,39.96,2024-06-21
+ORD-0374,Resistance Bands,Sports,Asia Pacific,3,16.99,50.97,2024-06-26
+ORD-0375,Linen Shirt,Apparel,North America,1,44.99,44.99,2024-07-01
+ORD-0376,Desk Organizer,Home & Office,South America,1,19.99,19.99,2024-07-06
+ORD-0377,Sparkling Water Pack,Food & Beverage,North America,6,1.99,11.94,2024-07-11
+ORD-0378,Fitness Tracker,Electronics,South America,1,99.99,99.99,2024-07-16
+ORD-0379,Swim Goggles,Sports,Europe,2,14.99,29.98,2024-07-21
+ORD-0380,Cargo Pants,Apparel,Asia Pacific,2,39.99,79.98,2024-07-26
+ORD-0381,Espresso Machine,Home & Office,Europe,1,199.99,199.99,2024-07-31
+ORD-0382,Organic Honey,Food & Beverage,South America,4,15.99,63.96,2024-08-04
+ORD-0383,Laptop Stand,Electronics,Asia Pacific,3,39.99,119.97,2024-08-09
+ORD-0384,Soccer Ball,Sports,Asia Pacific,2,29.99,59.98,2024-08-14
+ORD-0385,Silk Scarf,Apparel,North America,1,34.99,34.99,2024-08-19
+ORD-0386,Air Purifier,Home & Office,Asia Pacific,1,179.99,179.99,2024-08-24
+ORD-0387,Webcam HD,Electronics,Europe,1,79.99,79.99,2024-08-29
+ORD-0388,Dumbbells Set,Sports,South America,1,59.99,59.99,2024-09-03
+ORD-0389,Portable Charger,Electronics,Asia Pacific,2,24.99,49.98,2024-09-08
+ORD-0390,Kettlebell,Sports,North America,2,44.99,89.98,2024-09-13
+ORD-0391,Monitor 27 inch,Electronics,Asia Pacific,1,349.99,349.99,2024-09-19
+ORD-0392,Cotton T-Shirt,Apparel,Asia Pacific,4,19.99,79.96,2024-09-24
+ORD-0393,Jump Rope,Sports,North America,3,9.99,29.97,2024-09-29
+ORD-0394,Mechanical Keyboard,Electronics,South America,1,149.99,149.99,2024-10-03
+ORD-0395,Wool Sweater,Apparel,Asia Pacific,2,69.99,139.98,2024-10-08
+ORD-0396,Organic Coffee Beans,Food & Beverage,North America,5,14.99,74.95,2024-10-13
+ORD-0397,Running Shoes,Apparel,North America,1,89.99,89.99,2024-10-18
+ORD-0398,Desk Lamp,Home & Office,North America,2,29.99,59.98,2024-10-23
+ORD-0399,Green Tea Set,Food & Beverage,South America,3,19.99,59.97,2024-10-28
+ORD-0400,USB-C Hub,Electronics,Asia Pacific,1,49.99,49.99,2024-11-02
+ORD-0401,Yoga Mat,Sports,North America,2,24.99,49.98,2024-11-07
+ORD-0402,Winter Jacket,Apparel,South America,1,129.99,129.99,2024-11-12
+ORD-0403,Coffee Maker,Home & Office,Asia Pacific,1,89.99,89.99,2024-11-17
+ORD-0404,Protein Powder,Food & Beverage,North America,3,34.99,104.97,2024-11-22
+ORD-0405,Noise-Canceling Headphones,Electronics,Europe,2,199.99,399.98,2024-11-27
+ORD-0406,Tennis Racket,Sports,South America,2,89.99,179.98,2024-12-02
+ORD-0407,Smartwatch,Electronics,Asia Pacific,1,249.99,249.99,2024-12-07
+ORD-0408,Denim Jeans,Apparel,North America,3,49.99,149.97,2024-12-12
+ORD-0409,Olive Oil Premium,Food & Beverage,Europe,5,12.99,64.95,2024-12-17
+ORD-0410,Standing Desk,Home & Office,South America,1,449.99,449.99,2024-12-22
+ORD-0411,Matcha Powder,Food & Beverage,Asia Pacific,2,22.99,45.98,2024-12-27
+ORD-0412,Wireless Mouse,Electronics,South America,1,29.99,29.99,2024-01-02
+ORD-0413,Basketball,Sports,Asia Pacific,3,34.99,104.97,2024-02-08
+ORD-0414,Leather Belt,Apparel,South America,1,29.99,29.99,2024-03-15
+ORD-0415,Bookshelf,Home & Office,North America,1,129.99,129.99,2024-04-20
+ORD-0416,Almond Butter,Food & Beverage,South America,6,11.99,71.94,2024-05-25
+ORD-0417,Bluetooth Speaker,Electronics,Europe,2,79.99,159.98,2024-06-30
+ORD-0418,Yoga Block Set,Sports,Asia Pacific,5,17.99,89.95,2024-07-05
+ORD-0419,Running Shorts,Apparel,South America,2,24.99,49.98,2024-08-10
+ORD-0420,Dark Chocolate Box,Food & Beverage,Europe,3,9.99,29.97,2024-09-15
+ORD-0421,Wireless Keyboard,Electronics,Asia Pacific,1,59.99,59.99,2024-10-20
+ORD-0422,Resistance Bands,Sports,Europe,4,16.99,67.96,2024-11-25
+ORD-0423,Linen Shirt,Apparel,South America,2,44.99,89.98,2024-12-30
+ORD-0424,Desk Organizer,Home & Office,Europe,2,19.99,39.98,2024-01-15
+ORD-0425,Sparkling Water Pack,Food & Beverage,Asia Pacific,8,1.99,15.92,2024-02-20
+ORD-0426,Fitness Tracker,Electronics,Europe,1,99.99,99.99,2024-03-25
+ORD-0427,Swim Goggles,Sports,North America,5,14.99,74.95,2024-04-30
+ORD-0428,Cargo Pants,Apparel,South America,3,39.99,119.97,2024-05-05
+ORD-0429,Espresso Machine,Home & Office,North America,1,199.99,199.99,2024-06-10
+ORD-0430,Organic Honey,Food & Beverage,Asia Pacific,3,15.99,47.97,2024-07-15
+ORD-0431,Laptop Stand,Electronics,Europe,2,39.99,79.98,2024-08-20
+ORD-0432,Soccer Ball,Sports,North America,2,29.99,59.98,2024-09-25
+ORD-0433,Silk Scarf,Apparel,Asia Pacific,2,34.99,69.98,2024-10-30
+ORD-0434,Air Purifier,Home & Office,South America,1,179.99,179.99,2024-11-05
+ORD-0435,Webcam HD,Electronics,Asia Pacific,1,79.99,79.99,2024-12-10
+ORD-0436,Dumbbells Set,Sports,North America,2,59.99,119.98,2024-01-20
+ORD-0437,Portable Charger,Electronics,North America,3,24.99,74.97,2024-02-25
+ORD-0438,Kettlebell,Sports,South America,1,44.99,44.99,2024-03-30
+ORD-0439,Monitor 27 inch,Electronics,Europe,1,349.99,349.99,2024-04-04
+ORD-0440,Cotton T-Shirt,Apparel,South America,6,19.99,119.94,2024-05-09
+ORD-0441,Jump Rope,Sports,Asia Pacific,4,9.99,39.96,2024-06-14
+ORD-0442,Mechanical Keyboard,Electronics,Europe,2,149.99,299.98,2024-07-19
+ORD-0443,Wool Sweater,Apparel,North America,1,69.99,69.99,2024-08-24
+ORD-0444,Organic Coffee Beans,Food & Beverage,Europe,4,14.99,59.96,2024-09-29
+ORD-0445,Running Shoes,Apparel,South America,2,89.99,179.98,2024-10-04
+ORD-0446,Desk Lamp,Home & Office,Asia Pacific,1,29.99,29.99,2024-11-09
+ORD-0447,Green Tea Set,Food & Beverage,Europe,2,19.99,39.98,2024-12-14
+ORD-0448,USB-C Hub,Electronics,South America,3,49.99,149.97,2024-01-28
+ORD-0449,Yoga Mat,Sports,Asia Pacific,2,24.99,49.98,2024-02-03
+ORD-0450,Winter Jacket,Apparel,North America,2,129.99,259.98,2024-03-08
+ORD-0451,Coffee Maker,Home & Office,North America,1,89.99,89.99,2024-04-13
+ORD-0452,Protein Powder,Food & Beverage,Asia Pacific,2,34.99,69.98,2024-05-18
+ORD-0453,Noise-Canceling Headphones,Electronics,South America,1,199.99,199.99,2024-06-23
+ORD-0454,Tennis Racket,Sports,Europe,3,89.99,269.97,2024-07-28
+ORD-0455,Smartwatch,Electronics,North America,1,249.99,249.99,2024-08-02
+ORD-0456,Denim Jeans,Apparel,Europe,2,49.99,99.98,2024-09-07
+ORD-0457,Olive Oil Premium,Food & Beverage,South America,4,12.99,51.96,2024-10-12
+ORD-0458,Standing Desk,Home & Office,Asia Pacific,1,449.99,449.99,2024-11-17
+ORD-0459,Matcha Powder,Food & Beverage,Europe,3,22.99,68.97,2024-12-22
+ORD-0460,Wireless Mouse,Electronics,Asia Pacific,4,29.99,119.96,2024-01-17
+ORD-0461,Basketball,Sports,South America,2,34.99,69.98,2024-02-22
+ORD-0462,Leather Belt,Apparel,Asia Pacific,3,29.99,89.97,2024-03-27
+ORD-0463,Bookshelf,Home & Office,Europe,1,129.99,129.99,2024-05-01
+ORD-0464,Almond Butter,Food & Beverage,North America,4,11.99,47.96,2024-06-06
+ORD-0465,Bluetooth Speaker,Electronics,South America,1,79.99,79.99,2024-07-11
+ORD-0466,Yoga Block Set,Sports,North America,2,17.99,35.98,2024-08-16
+ORD-0467,Running Shorts,Apparel,Asia Pacific,3,24.99,74.97,2024-09-21
+ORD-0468,Dark Chocolate Box,Food & Beverage,North America,8,9.99,79.92,2024-10-26
+ORD-0469,Resistance Bands,Sports,South America,3,16.99,50.97,2024-11-01
+ORD-0470,Linen Shirt,Apparel,North America,2,44.99,89.98,2024-12-06
+ORD-0471,Desk Organizer,Home & Office,North America,3,19.99,59.97,2024-01-22
+ORD-0472,Sparkling Water Pack,Food & Beverage,Europe,14,1.99,27.86,2024-02-27
+ORD-0473,Fitness Tracker,Electronics,North America,1,99.99,99.99,2024-03-03
+ORD-0474,Swim Goggles,Sports,Asia Pacific,6,14.99,89.94,2024-04-08
+ORD-0475,Cargo Pants,Apparel,North America,2,39.99,79.98,2024-05-13
+ORD-0476,Espresso Machine,Home & Office,South America,1,199.99,199.99,2024-06-18
+ORD-0477,Organic Honey,Food & Beverage,North America,2,15.99,31.98,2024-07-23
+ORD-0478,Laptop Stand,Electronics,North America,1,39.99,39.99,2024-08-28
+ORD-0479,Soccer Ball,Sports,South America,3,29.99,89.97,2024-09-03
+ORD-0480,Silk Scarf,Apparel,Europe,1,34.99,34.99,2024-10-08
+ORD-0481,Air Purifier,Home & Office,Europe,1,179.99,179.99,2024-11-13
+ORD-0482,Webcam HD,Electronics,South America,2,79.99,159.98,2024-12-18
+ORD-0483,Dumbbells Set,Sports,Europe,1,59.99,59.99,2024-01-25
+ORD-0484,Portable Charger,Electronics,South America,2,24.99,49.98,2024-02-01
+ORD-0485,Kettlebell,Sports,Asia Pacific,3,44.99,134.97,2024-03-07
+ORD-0486,Monitor 27 inch,Electronics,North America,2,349.99,699.98,2024-04-11
+ORD-0487,Cotton T-Shirt,Apparel,North America,5,19.99,99.95,2024-05-16
+ORD-0488,Jump Rope,Sports,Europe,3,9.99,29.97,2024-06-21
+ORD-0489,Mechanical Keyboard,Electronics,Asia Pacific,1,149.99,149.99,2024-07-26
+ORD-0490,Wool Sweater,Apparel,Europe,1,69.99,69.99,2024-08-01
+ORD-0491,Organic Coffee Beans,Food & Beverage,South America,3,14.99,44.97,2024-09-06
+ORD-0492,Running Shoes,Apparel,Asia Pacific,1,89.99,89.99,2024-10-11
+ORD-0493,Desk Lamp,Home & Office,South America,2,29.99,59.98,2024-11-16
+ORD-0494,Green Tea Set,Food & Beverage,Asia Pacific,4,19.99,79.96,2024-12-21
+ORD-0495,USB-C Hub,Electronics,North America,2,49.99,99.98,2024-01-29
+ORD-0496,Yoga Mat,Sports,North America,3,24.99,74.97,2024-02-04
+ORD-0497,Winter Jacket,Apparel,Asia Pacific,1,129.99,129.99,2024-03-10
+ORD-0498,Coffee Maker,Home & Office,Europe,2,89.99,179.98,2024-04-15
+ORD-0499,Protein Powder,Food & Beverage,South America,2,34.99,69.98,2024-05-20
+ORD-0500,Noise-Canceling Headphones,Electronics,North America,1,199.99,199.99,2024-06-25

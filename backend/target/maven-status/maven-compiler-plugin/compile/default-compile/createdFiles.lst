@@ -1,0 +1,9 @@
+com\dashboard\analytics\config\CorsConfig.class
+com\dashboard\analytics\repository\SalesRepository.class
+com\dashboard\analytics\dto\SalesByRegionDTO.class
+com\dashboard\analytics\AnalyticsApplication.class
+com\dashboard\analytics\model\SalesRecord.class
+com\dashboard\analytics\dto\TopProductDTO.class
+com\dashboard\analytics\service\SalesService.class
+com\dashboard\analytics\dto\MonthlyTrendDTO.class
+com\dashboard\analytics\controller\SalesController.class
